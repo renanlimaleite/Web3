@@ -3,7 +3,7 @@
 ### Revisões 1d, 7d, 30d
 
 > Dia 1: [Introduction,  What is BlockChain, What is Web3] ([https://www.learnweb3.io/tracks/freshman/what-is-web3](https://www.learnweb3.io/tracks/freshman/what-is-web3))
-> 
+> Dia 2: [What is ETH and SmartContrat] (https://www.learnweb3.io/tracks/freshman/what-is-web3)
 
 # To complete Web 3:
 
@@ -24,6 +24,9 @@
 
 # Revisões
 
-- [ ]  14/06 Dia 1: [Introduction,  What is BlockChain, What is Web3] ([https://www.learnweb3.io/tracks/freshman/what-is-web3](https://www.learnweb3.io/tracks/freshman/what-is-web3))
+- [x]  14/06 Dia 1: [Introduction,  What is BlockChain, What is Web3] ([https://www.learnweb3.io/tracks/freshman/what-is-web3](https://www.learnweb3.io/tracks/freshman/what-is-web3))
 - [ ]  20/06 Dia 1: [Introduction,  What is BlockChain, What is Web3] ([https://www.learnweb3.io/tracks/freshman/what-is-web3](https://www.learnweb3.io/tracks/freshman/what-is-web3))
 - [ ]  11/07 Dia 1: [Introduction,  What is BlockChain, What is Web3] ([https://www.learnweb3.io/tracks/freshman/what-is-web3](https://www.learnweb3.io/tracks/freshman/what-is-web3))
+- [ ]  16/06 Dia 2 [What is ETH and SmartContrat] ([https://www.learnweb3.io/tracks/freshman/what-is-web3](https://www.learnweb3.io/tracks/freshman/what-is-eth)]
+- [ ]  23/06 Dia 2 [What is ETH and SmartContrat] ([https://www.learnweb3.io/tracks/freshman/what-is-web3](https://www.learnweb3.io/tracks/freshman/what-is-eth)]
+- [ ]  14/07 Dia 2 [What is ETH and SmartContrat] ([https://www.learnweb3.io/tracks/freshman/what-is-web3](https://www.learnweb3.io/tracks/freshman/what-is-eth)]
