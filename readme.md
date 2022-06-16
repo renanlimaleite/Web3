@@ -3,7 +3,9 @@
 ### Revisões 1d, 7d, 30d
 
 > Dia 1: [Introduction,  What is BlockChain, What is Web3] ([https://www.learnweb3.io/tracks/freshman/what-is-web3](https://www.learnweb3.io/tracks/freshman/what-is-web3))
+> 
 > Dia 2: [What is ETH and SmartContrat] (https://www.learnweb3.io/tracks/freshman/what-is-web3)
+>
 
 # To complete Web 3:
 
